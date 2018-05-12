@@ -1,0 +1,28 @@
+_repo: Campaign-of-the-First-Troop-Philadelphia-City-CavalryApril-25-November-11-1898_37755
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, James, of Philadelphia
+    gutenberg_agent_id: '39045'
+    url: http://www.gutenberg.org/2009/agents/39045
+description: ''
+gutenberg_issued: '2011-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37755'
+  lccn: '05041661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pennsylvania. National Guard. Troop of Philadelphia Cavalry, 1st'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories -- United States'
+title: 'Campaign of the First Troop Philadelphia City Cavalry
+
+  April 25-November 11, 1898'
+url: http://www.gutenberg.org/ebooks/37755
